@@ -10,7 +10,6 @@ pageextension 50500 "MySalesPriceTablePageExtension" extends "Sales Prices"
                 ApplicationArea = All;
                 Caption = 'Description2';
                 ToolTip = 'Description from Customer Table';
-
             }
         }
     }
